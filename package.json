@@ -2,10 +2,10 @@
   "name": "filmoteka-first-command",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://orddreamer.github.io/filmoteka-first-command",
+  "homepage": "https://Andriii888.github.io/examples",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-first-command/"
+    "build": "parcel build src/*.html --public-url /examples/"
   },
   "repository": {
     "type": "git",
