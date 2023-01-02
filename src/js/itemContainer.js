@@ -1,6 +1,6 @@
 import axios from 'axios';
 import Pagination from 'tui-pagination';
-import 'tui-pagination/dist/tui-pagination.css';
+// import 'tui-pagination/dist/tui-pagination.css';
 
 
 const refs = {
