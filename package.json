@@ -1,0 +1,33 @@
+{
+  "name": "filmoteka-first-command",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://orddreamer.github.io/filmoteka-first-command",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /filmoteka-first-command/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orddreamer/filmoteka-first-command.git"
+  },
+  "keywords": [],
+  "author": "Roman Snitsarenko <roman.snitsarenko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orddreamer/filmoteka-first-command/issues"
+  },
+  "dependencies": {
+    "modern-normalize": "^1.1.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "axios": "^1.2.1",
+    "buffer": "^6.0.3",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4",
+    "tui-pagination": "^3.4.1"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
